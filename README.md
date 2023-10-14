@@ -1,6 +1,8 @@
 # js-practice
 
-## For Morikenjuku's JS-Lesson
+##
+
+For Morikenjuku's JS-Lesson
 
 ## PullRequest template
 
