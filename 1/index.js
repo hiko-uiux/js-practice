@@ -1,5 +1,6 @@
-console.log("No.1");
-// Main-Program
-const list = document.querySelector("main > ul");
-const listChild_node = "<li>これです</li>";
+// DOM-select
+const list = document.querySelector("ul");
+// NODE-create
+const listChild = "<li>これです</li>";
+// NODE-insert
 list.insertAdjacentHTML("afterbegin", listChild_node);
